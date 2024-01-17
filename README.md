@@ -8,8 +8,7 @@ This data engineering project aims to migrate a company's on-premises database t
 4. Azure key vault
 5. Power BI 
 
-## Key
- Objectives
+## Key Objectives
 Migrate data from on-premises database to Azure: Utilize Azure Data Factory to seamlessly transfer data from the on-premises database to Azure storage accounts.
 Implement a three-stage data storage strategy: Establish a bronze, silver, and gold data layer to handle raw, transformed, and aggregated data, respectively.
 Leverage Azure Databricks for data transformation: Employ Azure Databricks' Apache Spark engine to perform data cleansing, transformation, and enrichment tasks.
