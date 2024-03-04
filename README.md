@@ -1,6 +1,10 @@
 # Project overview
 This data engineering project aims to migrate a company's on-premises database to Azure, leveraging Azure Data Factory for data ingestion, transformation, and storage. The project will implement a three-stage storage strategy, consisting of bronze, silver, and gold data layers (Medalion architecture). Bronze data will represent raw data extracted from the source database, silver data will undergo data cleansing, transformation, and enrichment, while gold data will serve as the aggregated and standardized data source for Power BI analytics. Azure Databricks will be employed for data transformation tasks.
 
+# Documentation
+Link to the documentation: [Documentation](Documentation-Project.pdf)
+
+
 ## Architecture of the project
 
 ![DataEngineerProject](https://github.com/skalskibukowa/Azure_Data_Engineer_Project/assets/29678557/eec6b2c1-84e1-4d45-a8ea-354e1091313b)
